@@ -198500,7 +198500,7 @@ secbks-20
 secblogs
 sec-cert
 secchat
-secció
+secciï¿½
 seccio
 seccion
 secciones
@@ -225289,7 +225289,7 @@ translit
 translogo
 tran_small
 transmeta_crudele
-transmissio  
+transmissio
 transmission
 transmit
 Transmit

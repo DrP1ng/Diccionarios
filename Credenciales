@@ -15,5 +15,5 @@ ansible
 ec2-user
 vagrant
 azureuser
-apache 
+apache
 tomcat

