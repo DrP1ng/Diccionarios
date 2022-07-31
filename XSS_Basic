@@ -7,6 +7,12 @@
 <scr<script>ipt>alert("hacked")</script>
 <scr<script>ipt>alert("hacked")</scr</script>ipt>
 <<script>script>alert("hacked")</script</script>>
+<script>("hacked")<s/cript>
+<script>("hacked")<sc/ript>
+<script>("hacked")<scr/ipt>
+<script>("hacked")<scri/pt>
+<script>("hacked")<scrip/t>
+<script>("hacked")<script/>
 <img src /onerror=alert("hacked")>
 <img src='sampleimage' onerror="alert('hacked')" />
 <img src='nonexistant' onerror="alert('hacked')" />
