@@ -1,3 +1,4 @@
+<script>alert()</script>
 <script>alert("hacked")</script>
 <s   c   r   i   p   t>alert("hacked")</   s   c   r   i   p   t>
 <Script>alert("hacked")</Script>
